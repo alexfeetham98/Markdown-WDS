@@ -10,7 +10,11 @@ This webvsite needds to convey some bs about the companies etthics and product d
 ## Links to comepting websites:
 1.
 2.
-
+3.
+4.
+5.
+6.
+7.
 
 ## Competitors
 [Primark](https://www.primark.com/en/)
